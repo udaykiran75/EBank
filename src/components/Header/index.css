@@ -1,0 +1,19 @@
+.logo-logout-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.website-logo {
+  width: 100px;
+}
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  outline: none;
+  height: 35px;
+  width: 90px;
+  font-size: 15px;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+}
